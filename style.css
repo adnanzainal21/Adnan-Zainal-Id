@@ -32,11 +32,7 @@ html{
     line-height: 24px;  
     color: white;  
 }
-.sekile {
-    width: 20px;
-    height: 150px;
-    border-radius: 20px;
-}
+
 .btn-primary{
     background: var(--color-primary);
     border: 1px solid var(--color-primary);
@@ -455,7 +451,8 @@ header{
     align-items: center;
 }
 .skill-content img{
-    width: 200px;
+    width: 10rem;
+    height: 10rem;
 }
 .skill-content img:hover{
     transform: rotate(5deg);
