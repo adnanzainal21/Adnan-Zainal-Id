@@ -190,11 +190,7 @@ header{
 .social-link a:hover{
     background:  var(--color-white);   
 }
-/* ...............END HEADER SECTION............. */
 
-
-
-/* ...............START SERVICES SECTION............. */
 #Services{
     padding-top: 120px;
     background: var(--color-on-black);
@@ -242,11 +238,7 @@ header{
     background: var(--color-white);
     margin: 0 auto;
 }
-/* ...............END SERVICES SECTION............. */
 
-
-
-/* ...............START MARKETING SECTION............. */
 .marketing{
     background: url('./img/Port.png');
     width: 100%;
@@ -330,11 +322,7 @@ header{
  
 }
 
-/* ...............END PROJECT SECTION............. */
 
-
-
-/* ...............END choose-me SECTION............. */
 .choose-me{
     background: var(--color-black);
     position: relative;
@@ -451,8 +439,8 @@ header{
     align-items: center;
 }
 .skill-content img{
-    width: 10rem;
-    height: 10rem;
+    width: 5rem;
+    height: 5rem;
 }
 .skill-content img:hover{
     transform: rotate(5deg);
